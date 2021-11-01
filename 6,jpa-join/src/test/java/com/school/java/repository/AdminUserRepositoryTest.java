@@ -35,5 +35,9 @@ public class AdminUserRepositoryTest {
 
         AdminUser newAdminUser = adminUserRepository.save(adminUser);
         Assertions.assertNotNull(newAdminUser);
+        // 새로운 유저 newAdminUser를 만들었고, 유저의 계정을 "change"로 변경
+        newAdminUser.setAccount("change");
+        adminUserRepository.save(newAdminUser);
+
     }
 }
