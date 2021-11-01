@@ -1,0 +1,2 @@
+com/school/java/JavaApplicationTests.java
+ com.school.java.JavaApplicationTests

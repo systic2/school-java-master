@@ -1,0 +1,8 @@
+com/school/java/repository/OrderDetailRepositoryTest.java
+ com.school.java.repository.OrderDetailRepositoryTest
+com/school/java/repository/UserRepositoryTest.java
+ com.school.java.repository.UserRepositoryTest
+com/school/java/repository/ItemRepositoryTest.java
+ com.school.java.repository.ItemRepositoryTest
+com/school/java/JavaApplicationTests.java
+ com.school.java.JavaApplicationTests

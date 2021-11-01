@@ -1,0 +1,20 @@
+com/school/java/repository/OrderDetailRepositoryTest.java
+ com.school.java.repository.OrderDetailRepositoryTest
+com/school/java/repository/AdminUserRepositoryTest.java
+ com.school.java.repository.AdminUserRepositoryTest
+com/school/java/repository/UserRepositoryTest.java
+ com.school.java.repository.UserRepositoryTest
+com/school/java/controller/GetControllerTest.java
+ com.school.java.controller.GetControllerTest
+com/school/java/repository/ItemRepositoryTest.java
+ com.school.java.repository.ItemRepositoryTest
+com/school/java/repository/OrderGroupRepositoryTest.java
+ com.school.java.repository.OrderGroupRepositoryTest
+com/school/java/controller/PostControllerTest.java
+ com.school.java.controller.PostControllerTest
+com/school/java/JavaApplicationTests.java
+ com.school.java.JavaApplicationTests
+com/school/java/repository/CategoryRepositoryTest.java
+ com.school.java.repository.CategoryRepositoryTest
+com/school/java/repository/PartnerRepositoryTest.java
+ com.school.java.repository.PartnerRepositoryTest

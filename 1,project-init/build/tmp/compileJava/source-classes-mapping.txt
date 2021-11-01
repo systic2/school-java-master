@@ -1,0 +1,2 @@
+com/school/java/JavaApplication.java
+ com.school.java.JavaApplication
